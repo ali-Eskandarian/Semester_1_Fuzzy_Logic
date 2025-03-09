@@ -2,7 +2,7 @@
 
 ## Repository Overview
 
-This repository contains projects and implementations from the **Fuzzy Logic** course, completed as part of my Master's in Artificial Intelligence. Each project explores different techniques and applications of evolutionary computation, ranging from function approximation problems to advanced regression models using fuzzy logic.
+This repository contains projects and implementations from the **Fuzzy Logic** course, completed as part of my Master's in Artificial Intelligence. Each project explores different techniques and applications of fuzzy logic, ranging from function approximation problems to advanced regression models using fuzzy logic.
 
 ## Projects Included
 
